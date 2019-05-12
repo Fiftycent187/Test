@@ -1,7 +1,3 @@
-/**
- * Source Code first verified at https://etherscan.io on Saturday, June 23, 2018
- (UTC) */
-
 pragma solidity ^0.4.23;
 
 contract Token {
